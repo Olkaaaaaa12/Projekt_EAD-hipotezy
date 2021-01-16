@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93757521-8f94-41fd-85ec-2672e787b1f9" name="Default Changelist" comment="" />
+    <list default="true" id="93757521-8f94-41fd-85ec-2672e787b1f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_series_covid19_confirmed_global.csv" beforeDir="false" afterPath="$PROJECT_DIR$/time_series_covid19_confirmed_global.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_series_covid19_deaths_global.csv" beforeDir="false" afterPath="$PROJECT_DIR$/time_series_covid19_deaths_global.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_series_covid19_recovered_global.csv" beforeDir="false" afterPath="$PROJECT_DIR$/time_series_covid19_recovered_global.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mEzL63LsojGFYx3Wnw1aHm6raK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +34,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/WZUM project template 2021.01.08" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -71,26 +83,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1609073494555" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1610187358838">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1610709197609">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610187358838" />
-    <state width="1344" height="126" key="GridCell.Tab.0.bottom" timestamp="1609964394053">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610709197609" />
+    <state width="1344" height="95" key="GridCell.Tab.0.bottom" timestamp="1610828572563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609964394053" />
-    <state width="1344" height="126" key="GridCell.Tab.0.center" timestamp="1609964394053">
+    <state width="1344" height="95" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610828572562" />
+    <state width="1344" height="95" key="GridCell.Tab.0.center" timestamp="1610828572562">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609964394053" />
-    <state width="1344" height="126" key="GridCell.Tab.0.left" timestamp="1609964394053">
+    <state width="1344" height="95" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610828572562" />
+    <state width="1344" height="95" key="GridCell.Tab.0.left" timestamp="1610828572562">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609964394053" />
-    <state width="1344" height="126" key="GridCell.Tab.0.right" timestamp="1609964394053">
+    <state width="1344" height="95" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610828572562" />
+    <state width="1344" height="95" key="GridCell.Tab.0.right" timestamp="1610828572562">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609964394053" />
+    <state width="1344" height="95" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610828572562" />
     <state width="1344" height="126" key="GridCell.Tab.1.bottom" timestamp="1609964394054">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -107,16 +119,5 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1344" height="126" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609964394054" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>99</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
